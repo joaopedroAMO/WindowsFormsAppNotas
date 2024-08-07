@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppNotas", "WindowsFormsAppNotas.csproj", "{82170844-0027-4B12-97A7-304C54B96E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82170844-0027-4B12-97A7-304C54B96E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82170844-0027-4B12-97A7-304C54B96E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82170844-0027-4B12-97A7-304C54B96E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82170844-0027-4B12-97A7-304C54B96E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {810B549D-3769-447E-A662-0C70150AA417}
+	EndGlobalSection
+EndGlobal
